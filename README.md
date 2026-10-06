@@ -50,16 +50,18 @@ Learning, building, and collecting small wins ✨
 <h2>📊 GitHub Stats</h2>
 
 <div align="center">
+<table>
+<tr>
+<td><img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rachit1807&theme=radical" alt="Rachit's GitHub stats"></td>
+<td><img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rachit1807&theme=radical" alt="Top languages by commit"></td>
+</tr>
+<tr>
+<td><img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rachit1807&theme=radical" alt="Top languages by repository"></td>
+<td><img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rachit1807&theme=radical&utcOffset=0" alt="Commits by hour"></td>
+</tr>
+</table>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rachit1807&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="Rachit's GitHub stats">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachit1807&layout=compact&theme=radical&hide_border=true" alt="Top languages">
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rachit1807&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution activity graph">
-
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rachit1807&theme=radical" alt="Rachit's contribution activity and profile summary">
 </div>
 
 <div align="center">

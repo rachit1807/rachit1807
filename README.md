@@ -6,6 +6,9 @@
 <p><strong>B.Tech IT Student · Aspiring Software Developer</strong></p>
 <p>Exploring AI/ML, backend development, and web technologies. I enjoy building practical full-stack apps and developer tools.</p>
 
+<p><img src="https://readmeme.eu.cc/api/time.svg?theme=ocean&timezone=Asia%2FKolkata&timeFormat=24h&showSeconds=1&showDate=1&showDay=1&label=LUCKNOW%20LOCAL%20TIME" alt="Live local time in Lucknow, India"></p>
+<img src="assets/engineering-hud.gif" width="100%" alt="Animated pink engineering system dashboard">
+
 <a href="https://rachit1807.github.io/rachit-tripathi-portfolio/">Portfolio</a> ·
 <a href="https://github.com/rachit1807">GitHub</a> ·
 <a href="https://www.linkedin.com/in/rachit-tripathi-6a7405308/">LinkedIn</a> ·
@@ -21,20 +24,37 @@
 - 🌱 Currently exploring AI/ML, backend development, and web technologies
 - 💬 Ask me about web development, APIs, or my projects
 
+## Engineering Focus
+
+<p>
+<img src="https://img.shields.io/badge/WEB_SYSTEMS-701A3D?style=for-the-badge&labelColor=21131B" alt="Web systems">
+<img src="https://img.shields.io/badge/API_DESIGN-8F3158?style=for-the-badge&labelColor=21131B" alt="API design">
+<img src="https://img.shields.io/badge/AI_%2F_ML-AD5276?style=for-the-badge&labelColor=21131B" alt="AI and machine learning">
+<img src="https://img.shields.io/badge/DATA_SYSTEMS-5A3145?style=for-the-badge&labelColor=21131B" alt="Data systems">
+</p>
+
+<table>
+<tr><td><strong>01 / INTERFACE</strong><br>React · JavaScript · HTML · CSS</td><td><strong>02 / SERVICES</strong><br>Node.js · Express · FastAPI · REST</td></tr>
+<tr><td><strong>03 / DATA</strong><br>PostgreSQL · MongoDB · SQLite</td><td><strong>04 / TOOLING</strong><br>Git · GitHub · Docker</td></tr>
+</table>
+
+<p><sub>BUILD LOOP　→　DESIGN　/　IMPLEMENT　/　REVIEW　/　ITERATE</sub></p>
+
 ## Selected Work
 
-**[RailYatra](https://github.com/rachit1807/RailYatra)** — Full-stack railway booking simulator with route search, automatic seat allocation, PNR lookup, and downloadable demo tickets. Bookings, fares, and payments are simulated. **HTML · CSS · JavaScript · Express · PostgreSQL** · [Live demo](https://railyatra-api.onrender.com/)
-
-**[TaskFlow Pro](https://github.com/rachit1807/TaskFlow-Pro)** — Project management app with workspaces, roles, Kanban boards, task assignment, comments, attachments, and activity history. **React · Vite · Express · MongoDB** · [Live demo](https://taskflow-pro-web.onrender.com/)
-
-**[SmartLoanAI](https://github.com/rachit1807/SmartLoanAI)** — Educational loan decision-support prototype with repayment scenarios, model-assisted assessment, sample-document checks, and human review. **React · FastAPI · PostgreSQL · SQLite** · [Applicant demo](https://smart-loan-ai-one.vercel.app/)
-
-**[AI Code Review](https://github.com/rachit1807/AI-Code-Review)** — Full-stack app for structured code-review feedback using a local language model. **React · Express · MongoDB · Ollama** · [Live demo](https://ai-code-review-n5gt.onrender.com/)
+| SYSTEM | PURPOSE | STACK |
+|:--|:--|:--|
+| **[RailYatra](https://github.com/rachit1807/RailYatra)** | Railway booking simulator: route search, seat allocation, PNR lookup, downloadable demo tickets. Bookings, fares, and payments are simulated. [Live demo](https://railyatra-api.onrender.com/) | HTML · CSS · JavaScript · Express · PostgreSQL |
+| **[TaskFlow Pro](https://github.com/rachit1807/TaskFlow-Pro)** | Project management with workspaces, roles, Kanban, assignment, comments, attachments, and activity history. [Live demo](https://taskflow-pro-web.onrender.com/) | React · Vite · Express · MongoDB |
+| **[SmartLoanAI](https://github.com/rachit1807/SmartLoanAI)** | Educational loan decision-support prototype with repayment scenarios, model-assisted assessment, sample-document checks, and human review. [Applicant demo](https://smart-loan-ai-one.vercel.app/) | React · FastAPI · PostgreSQL · SQLite |
+| **[AI Code Review](https://github.com/rachit1807/AI-Code-Review)** | Structured code-review feedback app powered by a local language model. [Live demo](https://ai-code-review-n5gt.onrender.com/) | React · Express · MongoDB · Ollama |
 
 ## Experience
 
 - **Full-Stack Web Development Intern — CodeMore** · September 2026–present
 - **Front-End Development Intern — Codveda Technologies** · August–September 2026; built a responsive landing page and a counter app
+
+<p><sub>CAREER TRACK　/　LEARN → SHIP → IMPROVE</sub></p>
 
 ## Skills
 

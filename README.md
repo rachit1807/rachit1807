@@ -1,73 +1,77 @@
 <div align="center">
 
-<h1>Hi <img src="https://raw.githubusercontent.com/rachit1807/rachit1807/main/wave.svg" width="34" alt="waving hand">, I'm Rachit Tripathi</h1>
+<p>Hi <img src="wave.svg" width="26" alt="waving hand">, I'm Rachit.</p>
+<img src="assets/rachit-hero.svg" width="100%" alt="Rachit Tripathi, B.Tech IT student and aspiring software developer">
 
-### B.Tech IT Student · Aspiring Software Developer
+<p><strong>B.Tech IT Student · Aspiring Software Developer</strong></p>
+<p>Exploring AI/ML, backend development, and web technologies. I enjoy building practical full-stack apps and developer tools.</p>
 
-Exploring AI/ML, backend development, and web technologies 🚀
-
-</div>
-
-<h2>🏆 GitHub Trophies</h2>
-
-<div align="center">
-
-Learning, building, and collecting small wins ✨
+<a href="https://rachit1807.github.io/rachit-tripathi-portfolio/">Portfolio</a> ·
+<a href="https://github.com/rachit1807">GitHub</a> ·
+<a href="https://www.linkedin.com/in/rachit-tripathi-6a7405308/">LinkedIn</a> ·
+<a href="mailto:tripathirachit486@gmail.com">Email</a>
 
 </div>
 
-<h2>💫 About Me</h2>
+<p align="center"><img src="assets/gradient-divider.svg" width="100%" alt="Burgundy and rose animated divider"></p>
 
-- 🎓 B.Tech IT student
+## About
+
+- 🎓 B.Tech IT student based in Lucknow, India
 - 🌱 Currently exploring AI/ML, backend development, and web technologies
-- 💻 I enjoy building practical full-stack apps and developer tools
-- 📍 Lucknow, India
 - 💬 Ask me about web development, APIs, or my projects
 
-<h2>🌐 Socials</h2>
+## Selected Work
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachit-tripathi-6a7405308/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rachittripathi2509/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AsZHEBdie/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tripathirachit486@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://rachit1807.github.io/rachit-tripathi-portfolio/)
+**[RailYatra](https://github.com/rachit1807/RailYatra)** — Full-stack railway booking simulator with route search, automatic seat allocation, PNR lookup, and downloadable demo tickets. Bookings, fares, and payments are simulated. **HTML · CSS · JavaScript · Express · PostgreSQL** · [Live demo](https://railyatra-api.onrender.com/)
 
-<h2>💻 Tech Stack</h2>
+**[TaskFlow Pro](https://github.com/rachit1807/TaskFlow-Pro)** — Project management app with workspaces, roles, Kanban boards, task assignment, comments, attachments, and activity history. **React · Vite · Express · MongoDB** · [Live demo](https://taskflow-pro-web.onrender.com/)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**[SmartLoanAI](https://github.com/rachit1807/SmartLoanAI)** — Educational loan decision-support prototype with repayment scenarios, model-assisted assessment, sample-document checks, and human review. **React · FastAPI · PostgreSQL · SQLite** · [Applicant demo](https://smart-loan-ai-one.vercel.app/)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rachit1807/rachit1807/main/divider.svg" width="100%" alt="Animated gradient divider">
-</p>
+**[AI Code Review](https://github.com/rachit1807/AI-Code-Review)** — Full-stack app for structured code-review feedback using a local language model. **React · Express · MongoDB · Ollama** · [Live demo](https://ai-code-review-n5gt.onrender.com/)
 
-<h2>📊 GitHub Stats</h2>
+## Experience
+
+- **Full-Stack Web Development Intern — CodeMore** · September 2026–present
+- **Front-End Development Intern — Codveda Technologies** · August–September 2026; built a responsive landing page and a counter app
+
+## Skills
+
+- **Frontend:** JavaScript, React, HTML, CSS
+- **Backend:** Python, Node.js, Express, FastAPI, REST APIs
+- **Data:** PostgreSQL, MongoDB
+- **Tools:** Git, GitHub, Docker
+
+<p align="center"><img src="assets/gradient-divider.svg" width="100%" alt="Burgundy and rose animated divider"></p>
+
+## GitHub Activity
 
 <div align="center">
 <table>
 <tr>
-<td><img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rachit1807&theme=radical" alt="Rachit's GitHub stats"></td>
-<td><img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rachit1807&theme=radical" alt="Top languages by commit"></td>
+<td><img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rachit1807&theme=github_dark" alt="GitHub stats for Rachit Tripathi"></td>
+<td><img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rachit1807&theme=github_dark" alt="Most used languages by commit"></td>
 </tr>
 <tr>
-<td><img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rachit1807&theme=radical" alt="Top languages by repository"></td>
-<td><img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rachit1807&theme=radical&utcOffset=0" alt="Commits by hour"></td>
+<td><img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rachit1807&theme=github_dark" alt="Languages by repository"></td>
+<td><img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rachit1807&theme=github_dark&utcOffset=5.5" alt="Commit activity by hour, India time"></td>
 </tr>
 </table>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rachit1807&theme=radical" alt="Rachit's contribution activity and profile summary">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rachit1807&theme=github_dark" alt="GitHub contribution history for Rachit Tripathi">
 </div>
+
+<p align="center"><img src="assets/profile-footer.svg" width="100%" alt="Keep learning, keep building"></p>
 
 <div align="center">
 
-### ✨ Thanks for stopping by! ✨
+**🌐 Socials**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-451126?style=for-the-badge&logo=linkedin&logoColor=F8F0F3)](https://www.linkedin.com/in/rachit-tripathi-6a7405308/)
+[![Instagram](https://img.shields.io/badge/Instagram-701A3D?style=for-the-badge&logo=instagram&logoColor=F8F0F3)](https://www.instagram.com/rachittripathi2509/)
+[![Facebook](https://img.shields.io/badge/Facebook-451126?style=for-the-badge&logo=facebook&logoColor=F8F0F3)](https://www.facebook.com/share/1AsZHEBdie/)
+[![Email](https://img.shields.io/badge/Email-701A3D?style=for-the-badge&logo=gmail&logoColor=F8F0F3)](mailto:tripathirachit486@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-451126?style=for-the-badge&logo=githubpages&logoColor=F8F0F3)](https://rachit1807.github.io/rachit-tripathi-portfolio/)
 
 </div>

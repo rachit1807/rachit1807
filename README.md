@@ -6,7 +6,6 @@
 <p><strong>B.Tech IT Student · Aspiring Software Developer</strong></p>
 <p>Exploring AI/ML, backend development, and web technologies. I enjoy building practical full-stack apps and developer tools.</p>
 
-<p><img src="https://readmeme.eu.cc/api/time.svg?theme=ocean&timezone=Asia%2FKolkata&timeFormat=24h&showSeconds=1&showDate=1&showDay=1&label=LUCKNOW%20LOCAL%20TIME" alt="Live local time in Lucknow, India"></p>
 <img src="assets/engineering-hud.gif" width="100%" alt="Animated pink engineering system dashboard">
 
 <a href="https://rachit1807.github.io/rachit-tripathi-portfolio/">Portfolio</a> ·

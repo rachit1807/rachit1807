@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="8" viewBox="0 0 1200 8" preserveAspectRatio="none" role="img" aria-label="Animated underwater teal light divider">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="8" viewBox="0 0 1200 8" preserveAspectRatio="none" role="img" aria-label="Animated burgundy and rose divider">
   <defs>
     <linearGradient id="wine-flow" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#0B2027"/>
-      <stop offset=".32" stop-color="#1E6269"/>
-      <stop offset=".62" stop-color="#B6F3E4"/>
-      <stop offset="1" stop-color="#0B2027"/>
+      <stop offset="0" stop-color="#451126"/>
+      <stop offset=".32" stop-color="#701A3D"/>
+      <stop offset=".62" stop-color="#E5B5C7"/>
+      <stop offset="1" stop-color="#451126"/>
       <animate attributeName="x1" values="0;1200;0" dur="7s" repeatCount="indefinite"/>
       <animate attributeName="x2" values="1200;2400;1200" dur="7s" repeatCount="indefinite"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="8" rx="4" fill="#071419"/>
+  <rect width="1200" height="8" rx="4" fill="#190B12"/>
   <rect width="1200" height="3" y="2.5" rx="1.5" fill="url(#wine-flow)"/>
 </svg>

@@ -3,23 +3,23 @@
   <desc id="desc">B.Tech IT student and aspiring software developer exploring AI, backend development, and web technologies.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#061216"/>
-      <stop offset=".52" stop-color="#081D24"/>
-      <stop offset="1" stop-color="#103843"/>
+      <stop offset="0" stop-color="#10070C"/>
+      <stop offset=".52" stop-color="#190B12"/>
+      <stop offset="1" stop-color="#451126"/>
     </linearGradient>
     <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#246D73"/>
-      <stop offset=".5" stop-color="#B6F3E4"/>
-      <stop offset="1" stop-color="#68B8B1"/>
+      <stop offset="0" stop-color="#701A3D"/>
+      <stop offset=".5" stop-color="#E5B5C7"/>
+      <stop offset="1" stop-color="#C77B9B"/>
       <animate attributeName="x1" values="0;1;0" dur="8s" repeatCount="indefinite"/>
       <animate attributeName="x2" values="1;0;1" dur="8s" repeatCount="indefinite"/>
     </linearGradient>
     <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
-      <path d="M38 0H0V38" fill="none" stroke="#B6F3E4" stroke-opacity=".08" stroke-width="1"/>
+      <path d="M38 0H0V38" fill="none" stroke="#E5B5C7" stroke-opacity=".08" stroke-width="1"/>
     </pattern>
     <radialGradient id="halo">
-      <stop offset="0" stop-color="#68B8B1" stop-opacity=".2"/>
-      <stop offset="1" stop-color="#68B8B1" stop-opacity="0"/>
+      <stop offset="0" stop-color="#C77B9B" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
     </radialGradient>
     <filter id="soft-glow" x="-30%" y="-30%" width="160%" height="160%">
       <feGaussianBlur stdDeviation="5" result="blur"/>
@@ -29,41 +29,24 @@
   <rect width="1200" height="350" rx="24" fill="url(#bg)"/>
   <rect width="1200" height="350" rx="24" fill="url(#grid)"/>
   <ellipse cx="1015" cy="160" rx="240" ry="220" fill="url(#halo)"/>
-  <g fill="#B6F3E4" opacity=".075">
-    <path d="M900 0h18l185 300h-26z"/>
-    <path d="M1005 0h10l92 300h-16z"/>
-    <path d="M1095 0h20l50 300h-24z"/>
-  </g>
-  <g fill="none" stroke="#B6F3E4" stroke-opacity=".3">
+  <g fill="none" stroke="#E5B5C7" stroke-opacity=".3">
     <circle cx="1015" cy="160" r="96"/>
     <circle cx="1015" cy="160" r="132" stroke-dasharray="2 10"/>
     <path d="M875 160h280M1015 20v280" stroke-opacity=".12"/>
   </g>
-  <circle cx="1015" cy="64" r="5" fill="#B6F3E4">
+  <circle cx="1015" cy="64" r="5" fill="#E5B5C7">
     <animateTransform attributeName="transform" type="rotate" from="0 1015 160" to="360 1015 160" dur="22s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="883" cy="160" r="3" fill="#68B8B1">
+  <circle cx="883" cy="160" r="3" fill="#C77B9B">
     <animateTransform attributeName="transform" type="rotate" from="0 1015 160" to="-360 1015 160" dur="30s" repeatCount="indefinite"/>
   </circle>
-  <g opacity=".82" fill="#B6F3E4">
-    <ellipse cx="0" cy="0" rx="13" ry="5"/>
-    <path d="M-11 0l-9-7v14z"/>
-    <circle cx="7" cy="-1" r="1" fill="#061216"/>
-    <animateMotion dur="18s" repeatCount="indefinite" path="M 890 245 C 965 145 1072 122 1150 178 S 1084 292 956 265"/>
-  </g>
-  <g opacity=".52" fill="#68B8B1">
-    <ellipse cx="0" cy="0" rx="9" ry="4"/>
-    <path d="M-8 0l-7-5v10z"/>
-    <circle cx="5" cy="-1" r=".8" fill="#061216"/>
-    <animateMotion dur="23s" repeatCount="indefinite" path="M 1120 100 C 1030 82 960 128 920 190 S 1010 242 1125 205"/>
-  </g>
-  <text x="82" y="95" fill="#B6F3E4" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" letter-spacing="5">HELLO, I'M</text>
-  <text x="78" y="171" fill="#F2FAF7" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="1">RACHIT TRIPATHI</text>
-  <text x="82" y="211" fill="#B6F3E4" font-family="Arial, Helvetica, sans-serif" font-size="21">B.Tech IT Student  ·  Aspiring Software Developer</text>
-  <text x="82" y="250" fill="#68B8B1" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" letter-spacing="1">AI/ML  /  BACKEND  /  WEB TECHNOLOGIES</text>
-  <path d="M82 288 C260 278 400 300 548 286 S790 280 870 291" fill="none" stroke="#68B8B1" stroke-opacity=".42" stroke-width="2"/>
+  <text x="82" y="95" fill="#E5B5C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" letter-spacing="5">HELLO, I'M</text>
+  <text x="78" y="171" fill="#F8F0F3" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="1">RACHIT TRIPATHI</text>
+  <text x="82" y="211" fill="#E5B5C7" font-family="Arial, Helvetica, sans-serif" font-size="21">B.Tech IT Student  ·  Aspiring Software Developer</text>
+  <text x="82" y="250" fill="#C77B9B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" letter-spacing="1">AI/ML  /  BACKEND  /  WEB TECHNOLOGIES</text>
+  <path d="M82 288 C260 278 400 300 548 286 S790 280 870 291" fill="none" stroke="#C77B9B" stroke-opacity=".42" stroke-width="2"/>
   <path d="M82 288 C260 278 400 300 548 286 S790 280 870 291" fill="none" stroke="url(#glow)" stroke-width="3" stroke-dasharray="100 900" filter="url(#soft-glow)">
     <animate attributeName="stroke-dashoffset" from="1000" to="0" dur="5s" repeatCount="indefinite"/>
   </path>
-  <circle cx="82" cy="288" r="4" fill="#B6F3E4"/>
+  <circle cx="82" cy="288" r="4" fill="#E5B5C7"/>
 </svg>

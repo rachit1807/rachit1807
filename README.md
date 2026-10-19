@@ -1,7 +1,7 @@
 <div align="center">
 
 <p>Hi <img src="wave.svg" width="26" alt="waving hand">, I'm Rachit.</p>
-<img src="assets/rachit-hero.svg" width="100%" alt="Rachit Tripathi, B.Tech IT student and aspiring software developer">
+<img src="assets/rachit-hero-pink.svg" width="100%" alt="Rachit Tripathi, B.Tech IT student and aspiring software developer">
 
 <p><strong>B.Tech IT Student · Aspiring Software Developer</strong></p>
 <p>Exploring AI/ML, backend development, and web technologies. I enjoy building practical full-stack apps and developer tools.</p>

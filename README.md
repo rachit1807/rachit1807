@@ -13,7 +13,13 @@
 
 </div>
 
-<p align="center"><img src="assets/gradient-divider.svg" width="100%" alt="Burgundy and rose animated divider"></p>
+<p align="center">
+  <img src="https://readmeme.eu.cc/api/time.svg?theme=ocean&timezone=Asia%2FKolkata&timeFormat=24h&showSeconds=1&showDate=1&showDay=1&label=LUCKNOW%20LOCAL%20TIME" alt="Live local time in Lucknow, India">
+</p>
+
+<p align="center"><a href="https://rachit1807.github.io/rachit-tripathi-portfolio/"><strong>🌊 Open the interactive underwater portfolio — hover or touch the cards to stir them</strong></a></p>
+
+<p align="center"><img src="assets/gradient-divider.svg" width="100%" alt="Underwater teal light divider"></p>
 
 ## About
 
@@ -43,7 +49,7 @@
 - **Data:** PostgreSQL, MongoDB
 - **Tools:** Git, GitHub, Docker
 
-<p align="center"><img src="assets/gradient-divider.svg" width="100%" alt="Burgundy and rose animated divider"></p>
+<p align="center"><img src="assets/gradient-divider.svg" width="100%" alt="Underwater teal light divider"></p>
 
 ## GitHub Activity
 
@@ -68,10 +74,10 @@
 
 **🌐 Socials**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-451126?style=for-the-badge&logo=linkedin&logoColor=F8F0F3)](https://www.linkedin.com/in/rachit-tripathi-6a7405308/)
-[![Instagram](https://img.shields.io/badge/Instagram-701A3D?style=for-the-badge&logo=instagram&logoColor=F8F0F3)](https://www.instagram.com/rachittripathi2509/)
-[![Facebook](https://img.shields.io/badge/Facebook-451126?style=for-the-badge&logo=facebook&logoColor=F8F0F3)](https://www.facebook.com/share/1AsZHEBdie/)
-[![Email](https://img.shields.io/badge/Email-701A3D?style=for-the-badge&logo=gmail&logoColor=F8F0F3)](mailto:tripathirachit486@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-451126?style=for-the-badge&logo=githubpages&logoColor=F8F0F3)](https://rachit1807.github.io/rachit-tripathi-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-123C45?style=for-the-badge&logo=linkedin&logoColor=E8FBF6)](https://www.linkedin.com/in/rachit-tripathi-6a7405308/)
+[![Instagram](https://img.shields.io/badge/Instagram-1E6269?style=for-the-badge&logo=instagram&logoColor=E8FBF6)](https://www.instagram.com/rachittripathi2509/)
+[![Facebook](https://img.shields.io/badge/Facebook-123C45?style=for-the-badge&logo=facebook&logoColor=E8FBF6)](https://www.facebook.com/share/1AsZHEBdie/)
+[![Email](https://img.shields.io/badge/Email-1E6269?style=for-the-badge&logo=gmail&logoColor=E8FBF6)](mailto:tripathirachit486@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-123C45?style=for-the-badge&logo=githubpages&logoColor=E8FBF6)](https://rachit1807.github.io/rachit-tripathi-portfolio/)
 
 </div>

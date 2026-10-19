@@ -6,7 +6,7 @@
 <p><strong>B.Tech IT Student · Aspiring Software Developer</strong></p>
 <p>Exploring AI/ML, backend development, and web technologies. I enjoy building practical full-stack apps and developer tools.</p>
 
-<img src="assets/engineering-hud.gif" width="100%" alt="Animated pink engineering system dashboard">
+<img src="assets/engineering-hud-v2.gif" width="100%" alt="Continuously looping pink engineering system dashboard">
 
 <a href="https://rachit1807.github.io/rachit-tripathi-portfolio/">Portfolio</a> ·
 <a href="https://github.com/rachit1807">GitHub</a> ·

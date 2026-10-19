@@ -5,7 +5,7 @@ import UniformTypeIdentifiers
 let width = 900
 let height = 210
 let frames = 24
-let output = URL(fileURLWithPath: CommandLine.arguments.dropFirst().first ?? "assets/engineering-hud.gif")
+let output = URL(fileURLWithPath: CommandLine.arguments.dropFirst().first ?? "assets/engineering-hud-v2.gif")
 
 func color(_ hex: UInt32, alpha: CGFloat = 1) -> NSColor {
   NSColor(
@@ -59,9 +59,9 @@ func render(_ frame: Int) -> CGImage {
 
   // Left identity panel.
   drawText("RACHIT  /  ENGINEERING PROFILE", x: 28, y: 28, size: 11, tint: rose, font: .monospacedSystemFont(ofSize: 11, weight: .semibold))
-  drawText("FULL-STACK", x: 28, y: 66, size: 31, tint: color(0xf8f0f3), font: .systemFont(ofSize: 31, weight: .bold))
-  drawText("AI  ·  BACKEND  ·  WEB SYSTEMS", x: 30, y: 92, size: 12, tint: pink, font: .monospacedSystemFont(ofSize: 12, weight: .medium))
-  drawText("DESIGN  →  BUILD  →  SHIP", x: 30, y: 157, size: 10, tint: dim, font: .monospacedSystemFont(ofSize: 10, weight: .medium))
+  drawText("FULL-STACK", x: 28, y: 62, size: 27, tint: color(0xf8f0f3), font: .systemFont(ofSize: 27, weight: .bold))
+  drawText("AI  ·  BACKEND  ·  WEB SYSTEMS", x: 30, y: 108, size: 11, tint: pink, font: .monospacedSystemFont(ofSize: 11, weight: .medium))
+  drawText("DESIGN  →  BUILD  →  SHIP", x: 30, y: 163, size: 10, tint: dim, font: .monospacedSystemFont(ofSize: 10, weight: .medium))
 
   // Animated scan sweep across the telemetry panel.
   let scanX = CGFloat(28 + (frame * 19) % 395)
@@ -139,17 +139,22 @@ func render(_ frame: Int) -> CGImage {
   return cgImage
 }
 
-let properties: [CFString: Any] = [
+let destinationProperties: [CFString: Any] = [
   kCGImagePropertyGIFDictionary: [
     kCGImagePropertyGIFLoopCount: 0,
-    kCGImagePropertyGIFDelayTime: 0.10,
   ] as [CFString: Any],
 ]
 guard let destination = CGImageDestinationCreateWithURL(output as CFURL, UTType.gif.identifier as CFString, frames, nil) else {
   fatalError("Could not create GIF output at \(output.path)")
 }
+CGImageDestinationSetProperties(destination, destinationProperties as CFDictionary)
+let frameProperties: [CFString: Any] = [
+  kCGImagePropertyGIFDictionary: [
+    kCGImagePropertyGIFDelayTime: 0.10,
+  ] as [CFString: Any],
+]
 for frame in 0..<frames {
-  CGImageDestinationAddImage(destination, render(frame), properties as CFDictionary)
+  CGImageDestinationAddImage(destination, render(frame), frameProperties as CFDictionary)
 }
 guard CGImageDestinationFinalize(destination) else {
   fatalError("Could not finish GIF output")

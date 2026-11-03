@@ -1,8 +1,8 @@
 <div align="center">
 
-<p>Hi <img src="wave.svg" width="26" alt="waving hand">, I'm Rachit.</p>
+<p>Hi <img src="assets/wave.gif" width="26" alt="waving hand">, I'm Rachit.</p>
 <img src="assets/rachit-hero-pink.svg" width="100%" alt="Rachit Tripathi, B.Tech IT student and aspiring software developer">
-<img src="assets/role-cycle.svg" width="100%" alt="Cycling roles: full-stack developer, backend and API builder, AI and developer tools">
+<img src="assets/role-cycle.gif" width="100%" alt="Cycling roles: full-stack developer, backend and API builder, AI and developer tools">
 
 <p>B.Tech IT student in Lucknow, India · Building practical web apps and developer tools</p>
 <img src="assets/engineering-hud-v2.gif" width="100%" alt="Continuously looping pink engineering system dashboard">
@@ -14,7 +14,7 @@
 
 </div>
 
-<p align="center"><img src="assets/gradient-divider.svg" width="100%" alt="Burgundy and rose animated divider"></p>
+<p align="center"><img src="assets/gradient-divider.gif" width="100%" alt="Burgundy and rose divider with a moving highlight"></p>
 
 ## What I Build
 
@@ -26,11 +26,11 @@
 
 ## Current Focus
 
-<img src="assets/focus-carousel.svg" width="100%" alt="Animated carousel of Rachit's current software engineering focus areas">
+<img src="assets/focus-carousel.gif" width="100%" alt="Animated carousel of Rachit's current software engineering focus areas">
 
 ## Tech Orbit & Stack
 
-<img src="assets/tech-orbit.svg" width="100%" alt="Continuously orbiting JavaScript, React, Python, Node, SQL, and Git around a systems core">
+<img src="assets/tech-orbit.gif" width="100%" alt="Continuously orbiting JavaScript, React, Python, Node, SQL, and Git around a systems core">
 
 <p align="center">
 <img src="https://img.shields.io/badge/JAVASCRIPT-451126?style=for-the-badge&logo=javascript&logoColor=F8F0F3" alt="JavaScript">
@@ -49,8 +49,8 @@
 
 <table>
 <tr>
-<td align="center" width="30%"><img src="assets/rachit-character-portrait.png" width="250" alt="Male anime-style developer character with short dark hair, sunglasses, hoodie, and laptop"></td>
-<td width="70%"><img src="assets/identity-dashboard.svg" width="100%" alt="Animated holographic-style identity dashboard for Rachit Tripathi"></td>
+<td align="center" width="30%"><img src="assets/rachit-character-portrait.gif" width="250" alt="Male anime-style developer character with short dark hair, sunglasses, hoodie, and laptop, gently floating in a loop"></td>
+<td width="70%"><img src="assets/identity-dashboard.gif" width="100%" alt="Continuously animated holographic-style identity dashboard for Rachit Tripathi"></td>
 </tr>
 </table>
 
@@ -92,7 +92,7 @@
 
 <table>
 <tr>
-<td align="center" width="35%"><img src="assets/rachit-character-footer.png" width="270" alt="Male anime-style developer character winking and pointing toward the social links"></td>
+<td align="center" width="35%"><img src="assets/rachit-character-footer.gif" width="270" alt="Male anime-style developer character winking, pointing, and gently swaying beside the social links"></td>
 <td width="65%">
 <p><strong>OPEN CHANNEL / CONNECT</strong></p>
 <p>LinkedIn: <a href="https://www.linkedin.com/in/rachit-tripathi-6a7405308/">linkedin.com/in/rachit-tripathi-6a7405308</a><br>

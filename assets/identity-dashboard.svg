@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-labelledby="title desc">
+  <title id="title">Rachit Tripathi identity card and engineering dashboard</title>
+  <desc id="desc">A pink holographic-style profile badge with current role, location, and engineering focus.</desc>
+  <defs><linearGradient id="panel" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#1b101b"/><stop offset="1" stop-color="#10070c"/></linearGradient><linearGradient id="shine"><stop stop-color="#e5b5c7" stop-opacity="0"/><stop offset=".5" stop-color="#e5b5c7" stop-opacity=".16"/><stop offset="1" stop-color="#e5b5c7" stop-opacity="0"/></linearGradient></defs>
+  <rect x="1" y="1" width="898" height="258" rx="18" fill="url(#panel)" stroke="#754b5b" stroke-width="2"/>
+  <rect x="18" y="18" width="864" height="224" rx="12" fill="none" stroke="#451126"/>
+  <rect x="18" y="18" width="864" height="224" rx="12" fill="url(#shine)"><animate attributeName="x" values="-900;900" dur="6s" repeatCount="indefinite"/></rect>
+  <text x="40" y="52" fill="#e5b5c7" font-family="monospace" font-size="12" letter-spacing="2">IDENTITY / ENGINEERING</text>
+  <circle cx="114" cy="137" r="53" fill="#21131b" stroke="#c77b9b" stroke-width="2"/>
+  <circle cx="114" cy="137" r="43" fill="none" stroke="#e5b5c7" stroke-opacity=".55" stroke-dasharray="3 5"><animateTransform attributeName="transform" type="rotate" from="0 114 137" to="360 114 137" dur="18s" repeatCount="indefinite"/></circle>
+  <text x="114" y="146" fill="#f8f0f3" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" font-weight="700">RT</text>
+  <text x="198" y="111" fill="#f8f0f3" font-family="Arial,sans-serif" font-size="28" font-weight="700">Rachit Tripathi</text>
+  <text x="199" y="140" fill="#c77b9b" font-family="monospace" font-size="13">B.TECH IT STUDENT  /  ASPIRING SOFTWARE DEVELOPER</text>
+  <text x="199" y="170" fill="#d9c4ce" font-family="Arial,sans-serif" font-size="14">Lucknow, India · Full-stack applications · Backend APIs · AI/ML</text>
+  <path d="M199 192H843" stroke="#451126"/>
+  <text x="199" y="218" fill="#754b5b" font-family="monospace" font-size="11" letter-spacing="1">DESIGN  →  BUILD  →  REVIEW  →  ITERATE</text>
+  <text x="840" y="52" fill="#754b5b" text-anchor="end" font-family="monospace" font-size="11">ID / RT-1807</text>
+</svg>

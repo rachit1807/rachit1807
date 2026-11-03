@@ -2,69 +2,52 @@
 
 <p>Hi <img src="wave.svg" width="26" alt="waving hand">, I'm Rachit.</p>
 <img src="assets/rachit-hero-pink.svg" width="100%" alt="Rachit Tripathi, B.Tech IT student and aspiring software developer">
+<img src="assets/role-cycle.svg" width="100%" alt="Cycling roles: full-stack developer, backend and API builder, AI and developer tools">
 
-<p><strong>B.Tech IT Student · Aspiring Software Developer</strong></p>
-<p>Exploring AI/ML, backend development, and web technologies. I enjoy building practical full-stack apps and developer tools.</p>
-
+<p>B.Tech IT student in Lucknow, India · Building practical web apps and developer tools</p>
 <img src="assets/engineering-hud-v2.gif" width="100%" alt="Continuously looping pink engineering system dashboard">
 
-<a href="https://rachit1807.github.io/rachit-tripathi-portfolio/">Portfolio</a> ·
-<a href="https://github.com/rachit1807">GitHub</a> ·
-<a href="https://www.linkedin.com/in/rachit-tripathi-6a7405308/">LinkedIn</a> ·
-<a href="mailto:tripathirachit486@gmail.com">Email</a>
+<a href="https://rachit1807.github.io/rachit-tripathi-portfolio/">PORTFOLIO</a> ·
+<a href="https://github.com/rachit1807">GITHUB</a> ·
+<a href="https://www.linkedin.com/in/rachit-tripathi-6a7405308/">LINKEDIN</a> ·
+<a href="mailto:tripathirachit486@gmail.com">EMAIL</a>
 
 </div>
 
 <p align="center"><img src="assets/gradient-divider.svg" width="100%" alt="Burgundy and rose animated divider"></p>
 
-## About
+## What I Build
 
-- 🎓 B.Tech IT student based in Lucknow, India
-- 🌱 Currently exploring AI/ML, backend development, and web technologies
-- 💬 Ask me about web development, APIs, or my projects
+| SYSTEMS | WHAT THEY DO |
+|:--|:--|
+| **Full-stack products** | Web apps that connect a clean interface to APIs and persistent data. |
+| **Backend workflows** | REST services, role-based features, and data-backed application flows. |
+| **AI developer tools** | Practical prototypes that apply language models to software workflows. |
 
-## Engineering Focus
+## Current Focus
 
-<p>
-<img src="https://img.shields.io/badge/WEB_SYSTEMS-701A3D?style=for-the-badge&labelColor=21131B" alt="Web systems">
-<img src="https://img.shields.io/badge/API_DESIGN-8F3158?style=for-the-badge&labelColor=21131B" alt="API design">
-<img src="https://img.shields.io/badge/AI_%2F_ML-AD5276?style=for-the-badge&labelColor=21131B" alt="AI and machine learning">
-<img src="https://img.shields.io/badge/DATA_SYSTEMS-5A3145?style=for-the-badge&labelColor=21131B" alt="Data systems">
+<img src="assets/focus-carousel.svg" width="100%" alt="Animated carousel of Rachit's current software engineering focus areas">
+
+## Tech Orbit & Stack
+
+<img src="assets/tech-orbit.svg" width="100%" alt="Continuously orbiting JavaScript, React, Python, Node, SQL, and Git around a systems core">
+
+<p align="center">
+<img src="https://img.shields.io/badge/JAVASCRIPT-451126?style=for-the-badge&logo=javascript&logoColor=F8F0F3" alt="JavaScript">
+<img src="https://img.shields.io/badge/REACT-701A3D?style=for-the-badge&logo=react&logoColor=F8F0F3" alt="React">
+<img src="https://img.shields.io/badge/PYTHON-8F3158?style=for-the-badge&logo=python&logoColor=F8F0F3" alt="Python">
+<img src="https://img.shields.io/badge/NODE.JS-451126?style=for-the-badge&logo=nodedotjs&logoColor=F8F0F3" alt="Node.js">
+<img src="https://img.shields.io/badge/FASTAPI-701A3D?style=for-the-badge&logo=fastapi&logoColor=F8F0F3" alt="FastAPI">
+<img src="https://img.shields.io/badge/POSTGRESQL-8F3158?style=for-the-badge&logo=postgresql&logoColor=F8F0F3" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MONGODB-451126?style=for-the-badge&logo=mongodb&logoColor=F8F0F3" alt="MongoDB">
+<img src="https://img.shields.io/badge/DOCKER-701A3D?style=for-the-badge&logo=docker&logoColor=F8F0F3" alt="Docker">
 </p>
 
-<table>
-<tr><td><strong>01 / INTERFACE</strong><br>React · JavaScript · HTML · CSS</td><td><strong>02 / SERVICES</strong><br>Node.js · Express · FastAPI · REST</td></tr>
-<tr><td><strong>03 / DATA</strong><br>PostgreSQL · MongoDB · SQLite</td><td><strong>04 / TOOLING</strong><br>Git · GitHub · Docker</td></tr>
-</table>
+<p align="center"><sub>INTERFACE　/　SERVICES　/　DATA　/　TOOLING</sub></p>
 
-<p><sub>BUILD LOOP　→　DESIGN　/　IMPLEMENT　/　REVIEW　/　ITERATE</sub></p>
+## Identity & Dashboard
 
-## Selected Work
-
-| SYSTEM | PURPOSE | STACK |
-|:--|:--|:--|
-| **[RailYatra](https://github.com/rachit1807/RailYatra)** | Railway booking simulator: route search, seat allocation, PNR lookup, downloadable demo tickets. Bookings, fares, and payments are simulated. [Live demo](https://railyatra-api.onrender.com/) | HTML · CSS · JavaScript · Express · PostgreSQL |
-| **[TaskFlow Pro](https://github.com/rachit1807/TaskFlow-Pro)** | Project management with workspaces, roles, Kanban, assignment, comments, attachments, and activity history. [Live demo](https://taskflow-pro-web.onrender.com/) | React · Vite · Express · MongoDB |
-| **[SmartLoanAI](https://github.com/rachit1807/SmartLoanAI)** | Educational loan decision-support prototype with repayment scenarios, model-assisted assessment, sample-document checks, and human review. [Applicant demo](https://smart-loan-ai-one.vercel.app/) | React · FastAPI · PostgreSQL · SQLite |
-| **[AI Code Review](https://github.com/rachit1807/AI-Code-Review)** | Structured code-review feedback app powered by a local language model. [Live demo](https://ai-code-review-n5gt.onrender.com/) | React · Express · MongoDB · Ollama |
-
-## Experience
-
-- **Full-Stack Web Development Intern — CodeMore** · September 2026–present
-- **Front-End Development Intern — Codveda Technologies** · August–September 2026; built a responsive landing page and a counter app
-
-<p><sub>CAREER TRACK　/　LEARN → SHIP → IMPROVE</sub></p>
-
-## Skills
-
-- **Frontend:** JavaScript, React, HTML, CSS
-- **Backend:** Python, Node.js, Express, FastAPI, REST APIs
-- **Data:** PostgreSQL, MongoDB
-- **Tools:** Git, GitHub, Docker
-
-<p align="center"><img src="assets/gradient-divider.svg" width="100%" alt="Burgundy and rose animated divider"></p>
-
-## GitHub Activity
+<img src="assets/identity-dashboard.svg" width="100%" alt="Animated holographic-style identity dashboard for Rachit Tripathi">
 
 <div align="center">
 <table>
@@ -77,15 +60,34 @@
 <td><img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rachit1807&theme=github_dark&utcOffset=5.5" alt="Commit activity by hour, India time"></td>
 </tr>
 </table>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rachit1807&theme=github_dark" alt="GitHub contribution history for Rachit Tripathi">
 </div>
+
+## Selected Work & Contribution City
+
+| PROJECT | OVERVIEW | STACK |
+|:--|:--|:--|
+| **[RailYatra](https://github.com/rachit1807/RailYatra)** | Railway booking simulator with route search, seat allocation, PNR lookup, and downloadable demo tickets. Bookings, fares, and payments are simulated. [Live demo](https://railyatra-api.onrender.com/) | HTML · CSS · JavaScript · Express · PostgreSQL |
+| **[TaskFlow Pro](https://github.com/rachit1807/TaskFlow-Pro)** | Project management app with workspaces, roles, Kanban, task assignment, comments, attachments, and activity history. [Live demo](https://taskflow-pro-web.onrender.com/) | React · Vite · Express · MongoDB |
+| **[SmartLoanAI](https://github.com/rachit1807/SmartLoanAI)** | Educational loan decision-support prototype with repayment scenarios, model-assisted assessment, sample-document checks, and human review. [Applicant demo](https://smart-loan-ai-one.vercel.app/) | React · FastAPI · PostgreSQL · SQLite |
+| **[AI Code Review](https://github.com/rachit1807/AI-Code-Review)** | Structured code-review feedback app powered by a local language model. [Live demo](https://ai-code-review-n5gt.onrender.com/) | React · Express · MongoDB · Ollama |
+
+<p align="center"><img src="assets/contribution-city.svg" width="100%" alt="Isometric city generated from Rachit's public GitHub contributions over the past year"></p>
+
+<p align="center"><sub>THE CITY REBUILDS DAILY FROM THE PUBLIC CONTRIBUTION CALENDAR</sub></p>
+
+## Experience & About
+
+- 🎓 B.Tech IT student based in Lucknow, India
+- 🌱 Exploring AI/ML, backend development, and web technologies
+- 💼 **Full-Stack Web Development Intern — CodeMore** · September 2026–present
+- 💼 **Front-End Development Intern — Codveda Technologies** · August–September 2026; built a responsive landing page and a counter app
+- 💬 Ask me about web development, APIs, or my projects
+
+## Connect
 
 <p align="center"><img src="assets/profile-footer.svg" width="100%" alt="Keep learning, keep building"></p>
 
 <div align="center">
-
-**🌐 Socials**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-451126?style=for-the-badge&logo=linkedin&logoColor=F8F0F3)](https://www.linkedin.com/in/rachit-tripathi-6a7405308/)
 [![Instagram](https://img.shields.io/badge/Instagram-701A3D?style=for-the-badge&logo=instagram&logoColor=F8F0F3)](https://www.instagram.com/rachittripathi2509/)

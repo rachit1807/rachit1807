@@ -95,11 +95,11 @@
 <td align="center" width="35%"><img src="assets/rachit-character-footer.png" width="270" alt="Male anime-style developer character winking and pointing toward the social links"></td>
 <td width="65%">
 <p><strong>OPEN CHANNEL / CONNECT</strong></p>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-451126?style=for-the-badge&logo=linkedin&logoColor=F8F0F3)](https://www.linkedin.com/in/rachit-tripathi-6a7405308/)
-[![Instagram](https://img.shields.io/badge/Instagram-701A3D?style=for-the-badge&logo=instagram&logoColor=F8F0F3)](https://www.instagram.com/rachittripathi2509/)
-[![Facebook](https://img.shields.io/badge/Facebook-451126?style=for-the-badge&logo=facebook&logoColor=F8F0F3)](https://www.facebook.com/share/1AsZHEBdie/)
-[![Email](https://img.shields.io/badge/Email-701A3D?style=for-the-badge&logo=gmail&logoColor=F8F0F3)](mailto:tripathirachit486@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-451126?style=for-the-badge&logo=githubpages&logoColor=F8F0F3)](https://rachit1807.github.io/rachit-tripathi-portfolio/)
+<p>LinkedIn: <a href="https://www.linkedin.com/in/rachit-tripathi-6a7405308/">linkedin.com/in/rachit-tripathi-6a7405308</a><br>
+Instagram: <a href="https://www.instagram.com/rachittripathi2509/">instagram.com/rachittripathi2509</a><br>
+Facebook: <a href="https://www.facebook.com/share/1AsZHEBdie/">facebook.com/share/1AsZHEBdie</a><br>
+Email: <a href="mailto:tripathirachit486@gmail.com">tripathirachit486@gmail.com</a><br>
+Portfolio: <a href="https://rachit1807.github.io/rachit-tripathi-portfolio/">rachit1807.github.io/rachit-tripathi-portfolio</a></p>
 </td>
 </tr>
 </table>

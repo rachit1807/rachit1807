@@ -47,7 +47,12 @@
 
 ## Identity & Dashboard
 
-<img src="assets/identity-dashboard.svg" width="100%" alt="Animated holographic-style identity dashboard for Rachit Tripathi">
+<table>
+<tr>
+<td align="center" width="30%"><img src="assets/rachit-character-portrait.png" width="250" alt="Male anime-style developer character with short dark hair, sunglasses, hoodie, and laptop"></td>
+<td width="70%"><img src="assets/identity-dashboard.svg" width="100%" alt="Animated holographic-style identity dashboard for Rachit Tripathi"></td>
+</tr>
+</table>
 
 <div align="center">
 <table>
@@ -85,14 +90,16 @@
 
 ## Connect
 
-<p align="center"><img src="assets/profile-footer.svg" width="100%" alt="Keep learning, keep building"></p>
-
-<div align="center">
-
+<table>
+<tr>
+<td align="center" width="35%"><img src="assets/rachit-character-footer.png" width="270" alt="Male anime-style developer character winking and pointing toward the social links"></td>
+<td width="65%">
+<p><strong>OPEN CHANNEL / CONNECT</strong></p>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-451126?style=for-the-badge&logo=linkedin&logoColor=F8F0F3)](https://www.linkedin.com/in/rachit-tripathi-6a7405308/)
 [![Instagram](https://img.shields.io/badge/Instagram-701A3D?style=for-the-badge&logo=instagram&logoColor=F8F0F3)](https://www.instagram.com/rachittripathi2509/)
 [![Facebook](https://img.shields.io/badge/Facebook-451126?style=for-the-badge&logo=facebook&logoColor=F8F0F3)](https://www.facebook.com/share/1AsZHEBdie/)
 [![Email](https://img.shields.io/badge/Email-701A3D?style=for-the-badge&logo=gmail&logoColor=F8F0F3)](mailto:tripathirachit486@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-451126?style=for-the-badge&logo=githubpages&logoColor=F8F0F3)](https://rachit1807.github.io/rachit-tripathi-portfolio/)
-
-</div>
+</td>
+</tr>
+</table>
